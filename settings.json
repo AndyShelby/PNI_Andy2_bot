@@ -13,7 +13,7 @@
   "__comment06__": "AUTHORIZATION FOR CHATGPT",
   "chatgpt_auth": {
     "__comment07__": "API_KEY FROM https://platform.openai.com/account/api-keys. ONLY FOR API TYPES 0, 2 AND 3",
-    "api_key": "",
+    "api_key": "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",
 
     "__comment08__": "MODEL NAME FOR API TYPE 0 AND 3",
     "__comment09__": "DEFAULT FOR API TYPE 0: text-davinci-003",
@@ -55,7 +55,7 @@
   "__comment20__": "SPECIFY FORMAT OF GENERATED IMAGES (256x256 or 512x512 or 1024x1024)",
   "__comment21__": "SPECIFY IS PROXY NEEDED FOR DALLE (SAME PROXY AS FOR CHATGPT)",
   "dalle": {
-    "open_ai_api_key": "",
+    "open_ai_api_key": "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",
     "image_size": "512x512",
     "use_proxy": true
   },
@@ -63,7 +63,7 @@
   "__comment22__": "PROVIDE YOUR BOT API KEY FROM https://t.me/BotFather",
   "__comment23__": "SPECIFY THE SIZE OF THE REQUEST QUEUE AND WHETHER TO SHOW A MESSAGE ABOUT ADDING TO THE QUEUE",
   "telegram": {
-    "api_key": "",
+    "api_key": "6015861037:AAGaA8w-i2lHvNxWzedvGT-OyEZyGiKqUOE",
     "queue_max": 5,
     "show_queue_message": true
   }
